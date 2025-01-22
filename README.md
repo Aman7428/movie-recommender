@@ -30,7 +30,7 @@ Machine Learning: Cosine similarity for recommendations
 
 API Integration: TMDB API for fetching movie details and posters
 
-How It Works:
+How It Works: https://movie-recommender-26707aman.streamlit.app/
 
 Search for a movie in the input field.
 
